@@ -6,4 +6,16 @@ Business Problem brought up by Client "Which City and Locality is best to open a
 ### Load Data 
 ![01_Load_Read](https://user-images.githubusercontent.com/22409980/106805576-c7348900-665e-11eb-9264-ac4b14f809b7.png)
 
+### Add Features
+![02 Feature](https://user-images.githubusercontent.com/22409980/106805824-14185f80-665f-11eb-83ad-268fc97ce677.png)
 
+### Selected Location Co-ordinates
+![03 Selected_location_co-ordinates](https://user-images.githubusercontent.com/22409980/106805871-24c8d580-665f-11eb-80fb-1ee29f36c4fb.png)
+
+### Generate Plot (Map) where success of business is predicted
+![04 generating map](https://user-images.githubusercontent.com/22409980/106805960-44f89480-665f-11eb-8acd-c5f06e233b5f.png)
+
+## Output
+![05 Output_Map](https://user-images.githubusercontent.com/22409980/106806009-52158380-665f-11eb-8d66-b0a896886efe.png)
+
+## We can see that the most likely to open a business venture is near Toronto area for our business client.
